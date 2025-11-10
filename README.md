@@ -1,22 +1,22 @@
-<h1 align="center">👋 Merhaba, Ben Hakan!</h1>
+<h1 align="center">👋 Hi there, I'm Hakan!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+.NET+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-> Full-stack developer ve embedded systems meraklısı. Yeni teknolojileri öğrenmeyi ve açık kaynak projelere katkıda bulunmayı seviyorum. Modern web uygulamaları geliştirmekten, IoT projelerine kadar geniş bir yelpazede çalışıyorum.
+> Full-stack developer and embedded systems enthusiast. I love learning new technologies and contributing to open source projects. I work on a wide range of projects from modern web applications to IoT solutions.
 
-- 🔭 Şu anda üzerinde çalıştığım projeler: **Web & Mobile Uygulamalar**
-- 🌱 Öğrendiğim teknolojiler: **Cloud Computing & Microservices**
-- 💬 Benimle konuşun: **React, Flutter, Python, .NET, C#, Embedded Systems**
-- 📫 Bana ulaşın: **GitHub üzerinden mesaj atın!**
-- ⚡ Eğlenceli gerçek: **Kod yazarken kahve tüketimim exponential artıyor ☕**
+- 🔭 I'm currently working on: **Web & Mobile Applications**
+- 🌱 I'm currently learning: **Cloud Computing & Microservices**
+- 💬 Ask me about: **React, Flutter, Python, .NET, C#, Embedded Systems**
+- 📫 How to reach me: **Send me a message on GitHub!**
+- ⚡ Fun fact: **My coffee consumption increases exponentially while coding ☕**
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -24,17 +24,17 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakantnc&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=hakantnc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
 
 <div align="center">
   
-  ![Hakan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=hakantnc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+  ![Hakan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakantnc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
   
-  ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=hakantnc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakantnc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
   
 </div>
 
@@ -44,9 +44,9 @@
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
-### 💻 Programlama Dilleri
+### 💻 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### 🎨 Frontend Geliştirme
+### 🎨 Frontend Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-### ⚙️ Backend & Framework'ler
+### ⚙️ Backend & Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-### 🗄️ Veritabanları
+### 🗄️ Databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-### 🔧 DevOps & Araçlar
+### 🔧 DevOps & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -111,7 +111,7 @@
 
 ---
 
-## 🏆 GitHub Başarılarım
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hakantnc&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -119,7 +119,7 @@
 
 ---
 
-## 📈 Katkı Grafiği
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakantnc&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
@@ -127,7 +127,7 @@
 
 ---
 
-## 🐍 Katkı Yılanı
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hakantnc/hakantnc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -135,7 +135,7 @@
 
 ---
 
-## 💡 Rastgele Dev Quote
+## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -143,7 +143,7 @@
 
 ---
 
-## 📫 Benimle İletişime Geçin
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/hakantnc">
